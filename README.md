@@ -14,8 +14,6 @@ In exoplanet transit studies, researchers often work with large datasets contain
 - Preview the structure of the observation file.
 - View the first few records for quick verification.
 
-> Built with scientists in mind to save time and streamline dataset inspection before diving into analysis.
-
 ---
 
 ##  Features
